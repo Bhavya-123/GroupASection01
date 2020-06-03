@@ -1,5 +1,10 @@
 # GroupASection01
 
+## Team Name
+Peak Performers.
+
+## Team Logo:
+
 ## Team Members
 - Ravi Teja Pagidoju
 - Bhavya Deepthi Gorrepati
