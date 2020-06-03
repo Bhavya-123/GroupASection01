@@ -4,6 +4,7 @@
 Peak Performers.
 
 ## Team Logo:
+![](logo.png)
 
 ## Team Members
 - Ravi Teja Pagidoju
