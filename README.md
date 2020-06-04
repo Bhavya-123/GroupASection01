@@ -22,3 +22,21 @@ The management of project integration is the coordination of all elements of a p
 Files
 - [charter](https://github.com/Bhavya-123/GroupASection01/blob/master/project%20Integration%20management/charter.doc)
 - [project management plan](https://github.com/Bhavya-123/GroupASection01/blob/master/project%20Integration%20management/project%20management%20plan.doc)
+
+## Project Communication Management
+Project Communications Management includes the processes required to ensure timely and appropriate planning, collection, creation, distribution, storage , retrieval, management, control , monitoring and the ultimate disposal of project information.
+
+Files
+- [Communication management plan](https://github.com/Bhavya-123/GroupASection01/blob/master/project%20communication%20management/Communication%20Management%20Plan.doc)
+
+## Project Cost Management
+Cost management is the process of planning and controlling a company's budget. Cost management is a form of accounting management that allows a business to predict imminent expenditures to help reduce the likelihood of going over budget.
+
+Files
+- [Project cost management](https://github.com/Bhavya-123/GroupASection01/blob/master/project%20cost%20management/PM%20Cost%20Estimate.xls)
+
+## Project Procurement Management
+- [contract statement of work.doc
+](https://github.com/Bhavya-123/GroupASection01/blob/master/project%20procurement%20management/contract%20statement%20of%20work.doc)
+- [procurement management plan.doc](https://github.com/Bhavya-123/GroupASection01/blob/master/project%20procurement%20management/procurement%20management%20plan.doc)
+- [request for proposal.doc](https://github.com/Bhavya-123/GroupASection01/blob/master/project%20procurement%20management/request%20for%20proposal.doc)
