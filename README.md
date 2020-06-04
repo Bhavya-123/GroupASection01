@@ -21,4 +21,4 @@ The management of project integration is the coordination of all elements of a p
 
 Files
 - charter [charter](project Integration management/charter.doc)
-- project management plan [project management plan](project Integration management/project management plan.doc)
+- project management plan [project management plan](https://github.com/Bhavya-123/GroupASection01/blob/master/project%20Integration%20management/project%20management%20plan.doc)
