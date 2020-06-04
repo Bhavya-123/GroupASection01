@@ -20,5 +20,5 @@ Our project will help the Mabel Cook Recruitment and Visitors Center to keep tra
 The management of project integration is the coordination of all elements of a project. In addition to managing conflicts between different aspects of a project, making trade-offs between competing requests and evaluating resources, this includes coordinating tasks, resources, stakeholders and any other elements of the project.
 
 Files
-- charter [charter](project Integration management/charter.doc)
-- project management plan [project management plan](https://github.com/Bhavya-123/GroupASection01/blob/master/project%20Integration%20management/project%20management%20plan.doc)
+- [charter](https://github.com/Bhavya-123/GroupASection01/blob/master/project%20Integration%20management/charter.doc)
+- [project management plan](https://github.com/Bhavya-123/GroupASection01/blob/master/project%20Integration%20management/project%20management%20plan.doc)
